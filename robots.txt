@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://lornase-tekov.github.io/hubkering-com-cn/sitemap.xml
